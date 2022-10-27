@@ -1225,8 +1225,8 @@ if ('z1' !== originLanguage) {
             commonApi.msg(notifyName, '$argument解析失败', $argument);
         }
     }
-    securityKey: 'fUmT3d9xpJ72HMyJBLCq'
-    securityKey: 'fUmT3d9xpJ72HMyJBLCq'
+    const { appid, securityKey } = options;
+    //console.log(`appid:${appid},securityKey:${securityKey}`);
 
     const query = colorLyricsResponseObj.lyrics.lines
         .map(x => x.words)
@@ -1240,7 +1240,7 @@ if ('z1' !== originLanguage) {
         to: 'zh',
         appid,
         salt,
-        securityKey: 'fUmT3d9xpJ72HMyJBLCq'
+        sign: md5(appid + query + salt + securityKey)
     }
     const requestBody = Object.entries(queryObj)
         .map(([k, v]) => `${k}=${encodeURIComponent(v)}`)
