@@ -3,7 +3,7 @@
 # RAW: https://raw.githubusercontent.com/Lyrics-you/Quantuclipx/main/RuleClip/OnLooker.list
 # UPDATED: 2022-12-15
 
-# > Overcast
+# > 51cg1
 DOMAIN-SUFFIX, 51cg1.com, OnLooker
 HOST-KEYWORD, 51cg1, OnLooker
 
