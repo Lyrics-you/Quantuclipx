@@ -8,4 +8,5 @@ DOMAIN-SUFFIX, openai.com, ChatAI
 HOST-KEYWORD, openai, ChatAI
 
 # > new bing
-HOST-SUFFIX, bing.com/new, ChatAI
+DOMAIN-SUFFIX, bing.com, ChatAI
+HOST-KEYWORD, bing, ChatAI
