@@ -1,0 +1,11 @@
+# NAME: ChatAI
+# AUTHOR: Lyrics-you
+# RAW: https://raw.githubusercontent.com/Lyrics-you/Quantuclipx/main/RuleClip/ChatAI.list
+# UPDATED: 2023-03-07
+
+# > openai chatGPT
+DOMAIN-SUFFIX, openai.com, ChatAI
+HOST-KEYWORD, openai, ChatAI
+
+# > new bing
+HOST-SUFFIX, bing.com/new, ChatAI
