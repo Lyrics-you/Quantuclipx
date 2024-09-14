@@ -1,0 +1,16 @@
+# NAME: ChatAI
+# AUTHOR: Lyrics-you
+# RAW: https://raw.githubusercontent.com/Lyrics-you/Quantuclipx/main/RuleClip/Emby.list
+# UPDATED: 2024-09-14
+
+# > TreeDiagram
+DOMAIN-SUFFIX, 789.123456.al, Emby
+HOST-KEYWORD, 123456, Emby
+
+# > Paul
+DOMAIN-SUFFIX, cf.imetyou.top, Emby
+HOST-KEYWORD, imetyou, Emby
+
+# OuO
+DOMAIN-SUFFIX, random.ouonet.org, Emby
+HOST-KEYWORD, ouonet, Emby
