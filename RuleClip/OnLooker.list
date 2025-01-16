@@ -14,3 +14,7 @@ HOST-KEYWORD, chigua2, OnLooker
 # > maomiav 
 DOMAIN-SUFFIX, maomiav.com, OnLooker
 HOST-KEYWORD, maomiav, OnLooker
+
+# > missav 
+DOMAIN-SUFFIX, missav.ai, OnLooker
+HOST-KEYWORD, missav, OnLooker
