@@ -1,7 +1,7 @@
 # NAME: OnLooker
 # AUTHOR: Lyrics-you
 # RAW: https://raw.githubusercontent.com/Lyrics-you/Quantuclipx/main/RuleClip/OnLooker.list
-# UPDATED: 2022-12-15
+# UPDATED: 2025-01-16
 
 # > 51cg1
 DOMAIN-SUFFIX, 51cg1.com, OnLooker
@@ -18,3 +18,7 @@ HOST-KEYWORD, maomiav, OnLooker
 # > missav 
 DOMAIN-SUFFIX, missav.ai, OnLooker
 HOST-KEYWORD, missav, OnLooker
+
+# > jable
+DOMAIN-SUFFIX, jable.tv, OnLooker
+HOST-KEYWORD, jable, OnLooker
