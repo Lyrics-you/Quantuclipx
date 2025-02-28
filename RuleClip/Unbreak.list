@@ -1,0 +1,12 @@
+# NAME: Unbreak
+# AUTHOR: Lyrics-you
+# RAW: https://raw.githubusercontent.com/Lyrics-you/Quantuclipx/main/RuleClip/Unbreak.list
+# UPDATED: 2025-02-28
+
+# 脉脉
+DOMAIN-SUFFIX, taou.com, Direct
+HOST-KEYWORD, taou, Direct
+
+# 抖音
+DOMAIN-SUFFIX, video-cn.snssdk.com, Direct
+HOST-KEYWORD, video-cn, Direct
