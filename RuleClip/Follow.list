@@ -1,0 +1,10 @@
+# NAME: Follow
+# AUTHOR: Lyrics-you
+# RAW: https://raw.githubusercontent.com/Lyrics-you/Quantuclipx/main/RuleClip/Follow.list
+# UPDATED: 2025-04-28
+
+# > follow
+DOMAIN-SUFFIX, follow.is, Follow
+HOST-KEYWORD, follow, Follow
+DOMAIN-SUFFIX, folo.is, Follow
+HOST-KEYWORD, folo, Follow
