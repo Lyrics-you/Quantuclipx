@@ -1,0 +1,17 @@
+# NAME: Airlines
+# AUTHOR: Lyrics-you
+# RAW: https://raw.githubusercontent.com/Lyrics-you/Quantuclipx/main/RuleClip/Airlines.list
+# UPDATED: 2026-01-06
+
+# > huacloud
+DOMAIN-SUFFIX, api-huacloud.net, Airlines
+HOST-KEYWORD, api-huacloud, Airlines
+
+# > yingtao
+DOMAIN-SUFFIX, yingtaowangluo.net, Airlines
+HOST-KEYWORD, yingtaowangluo, Airlines
+
+# > ouo
+DOMAIN-SUFFIX, cauenvao.click, Airlines
+HOST-KEYWORD, cauenvao, Airlines
+HOST-KEYWORD, oss, Airlines
